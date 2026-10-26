@@ -1,0 +1,6 @@
+[20:12:56] [worker-1] waiting for messages on queue 'orders'. CTRL+C to exit
+[20:12:59] [worker-1] received order_id=ORD-DUPLICATE event_id=a0e522be-6345-4ad7-8908-c33af8286c53 redelivered=False
+[20:12:59] [worker-1] DUPLICATE detected event_id=a0e522be-6345-4ad7-8908-c33af8286c53 - skipping business action
+[20:12:59] [worker-1] received order_id=ORD-3001 event_id=3674acef-fef3-4b77-8e96-ce5fd4691d68 redelivered=False
+[20:12:59] [worker-1] processing order_id=ORD-3001 item_id=ITEM-022 quantity=2
+[20:13:00] [worker-1] done order_id=ORD-3001 -> ACK sent

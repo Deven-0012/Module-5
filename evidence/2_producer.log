@@ -1,0 +1,6 @@
+[20:12:37] [producer] published {"event_id": "73eb5d1e-f0bd-4348-a349-416c8fd8d65e", "order_id": "ORD-2001", "item_id": "ITEM-027", "quantity": 4}
+[20:12:37] [producer] published {"event_id": "628fec7d-ea58-482d-81f1-216a754d338e", "order_id": "ORD-2002", "item_id": "ITEM-029", "quantity": 2}
+[20:12:37] [producer] published {"event_id": "511cb70c-15d2-482c-9917-a33cca88f146", "order_id": "ORD-2003", "item_id": "ITEM-005", "quantity": 5}
+[20:12:37] [producer] published {"event_id": "277ba5d9-fec7-4c20-95b7-52e2b027c0bf", "order_id": "ORD-2004", "item_id": "ITEM-027", "quantity": 1}
+[20:12:37] [producer] published {"event_id": "664a5553-fc8a-46d5-b24f-70290f947528", "order_id": "ORD-2005", "item_id": "ITEM-019", "quantity": 4}
+[20:12:37] [producer] published {"event_id": "f7ade796-68d1-4645-80dc-cab1e8e62770", "order_id": "ORD-2006", "item_id": "ITEM-033", "quantity": 3}

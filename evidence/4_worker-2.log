@@ -1,0 +1,4 @@
+[20:13:15] [worker-2] waiting for messages on queue 'orders'. CTRL+C to exit
+[20:13:18] [worker-2] received order_id=ORD-4002 event_id=3b04ba5b-fa37-4293-928b-a1196b76e479 redelivered=False
+[20:13:18] [worker-2] processing order_id=ORD-4002 item_id=ITEM-039 quantity=2
+[20:13:19] [worker-2] !!! simulated CRASH after processing ORD-4002 - exiting WITHOUT ack

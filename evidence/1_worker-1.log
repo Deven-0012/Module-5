@@ -1,0 +1,16 @@
+[20:12:02] [worker-1] waiting for messages on queue 'orders'. CTRL+C to exit
+[20:12:05] [worker-1] received order_id=ORD-1001 event_id=25e0be3e-50dd-46bf-ab68-eb421da24a62 redelivered=False
+[20:12:05] [worker-1] processing order_id=ORD-1001 item_id=ITEM-020 quantity=1
+[20:12:06] [worker-1] done order_id=ORD-1001 -> ACK sent
+[20:12:06] [worker-1] received order_id=ORD-1003 event_id=99b81a38-41b8-4317-b69a-edcbb84e9f99 redelivered=False
+[20:12:06] [worker-1] processing order_id=ORD-1003 item_id=ITEM-034 quantity=3
+[20:12:07] [worker-1] done order_id=ORD-1003 -> ACK sent
+[20:12:07] [worker-1] received order_id=ORD-1005 event_id=c0716ae7-0f01-48c9-9fec-99db0f35b145 redelivered=False
+[20:12:07] [worker-1] processing order_id=ORD-1005 item_id=ITEM-004 quantity=5
+[20:12:08] [worker-1] done order_id=ORD-1005 -> ACK sent
+[20:12:08] [worker-1] received order_id=ORD-1007 event_id=307d7985-a5b3-4bbb-928e-204013ec9060 redelivered=False
+[20:12:08] [worker-1] processing order_id=ORD-1007 item_id=ITEM-035 quantity=4
+[20:12:09] [worker-1] done order_id=ORD-1007 -> ACK sent
+[20:12:09] [worker-1] received order_id=ORD-1010 event_id=aa88f208-2a13-4607-ac6b-d957be865cb1 redelivered=False
+[20:12:09] [worker-1] processing order_id=ORD-1010 item_id=ITEM-048 quantity=1
+[20:12:10] [worker-1] done order_id=ORD-1010 -> ACK sent

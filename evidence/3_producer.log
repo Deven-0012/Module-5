@@ -1,0 +1,2 @@
+[20:12:59] [producer] published {"event_id": "a0e522be-6345-4ad7-8908-c33af8286c53", "order_id": "ORD-DUPLICATE", "item_id": "ITEM-012", "quantity": 3}
+[20:12:59] [producer] published {"event_id": "3674acef-fef3-4b77-8e96-ce5fd4691d68", "order_id": "ORD-3001", "item_id": "ITEM-022", "quantity": 2}

@@ -1,0 +1,10 @@
+[20:12:05] [producer] published {"event_id": "25e0be3e-50dd-46bf-ab68-eb421da24a62", "order_id": "ORD-1001", "item_id": "ITEM-020", "quantity": 1}
+[20:12:05] [producer] published {"event_id": "a0e522be-6345-4ad7-8908-c33af8286c53", "order_id": "ORD-1002", "item_id": "ITEM-028", "quantity": 2}
+[20:12:05] [producer] published {"event_id": "99b81a38-41b8-4317-b69a-edcbb84e9f99", "order_id": "ORD-1003", "item_id": "ITEM-034", "quantity": 3}
+[20:12:05] [producer] published {"event_id": "49263588-9fbd-4df5-a574-136c6a157617", "order_id": "ORD-1004", "item_id": "ITEM-011", "quantity": 3}
+[20:12:05] [producer] published {"event_id": "c0716ae7-0f01-48c9-9fec-99db0f35b145", "order_id": "ORD-1005", "item_id": "ITEM-004", "quantity": 5}
+[20:12:05] [producer] published {"event_id": "90d4f759-7886-4602-94d1-ebd2b54cc57d", "order_id": "ORD-1006", "item_id": "ITEM-020", "quantity": 4}
+[20:12:05] [producer] published {"event_id": "307d7985-a5b3-4bbb-928e-204013ec9060", "order_id": "ORD-1007", "item_id": "ITEM-035", "quantity": 4}
+[20:12:05] [producer] published {"event_id": "41b8c2dd-b7fb-4774-b6e9-3964646fbc15", "order_id": "ORD-1008", "item_id": "ITEM-027", "quantity": 3}
+[20:12:05] [producer] published {"event_id": "9adc0574-ff64-41ae-a750-482811c85103", "order_id": "ORD-1009", "item_id": "ITEM-046", "quantity": 3}
+[20:12:05] [producer] published {"event_id": "aa88f208-2a13-4607-ac6b-d957be865cb1", "order_id": "ORD-1010", "item_id": "ITEM-048", "quantity": 1}
